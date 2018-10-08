@@ -4,3 +4,4 @@ tags:
 resources: 
 languages: 
   - SQL
+jupyter_notebook: true
